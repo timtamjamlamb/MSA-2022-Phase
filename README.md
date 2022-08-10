@@ -1,4 +1,4 @@
-# Submission forMSA-2022-Phase-2
+# Submission for MSA-2022-Phase-2
 
 Data file contains contents for MSA 2022 Phase 2 Data Science Pathway part.
 
